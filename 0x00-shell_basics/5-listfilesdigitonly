@@ -1,2 +1,10 @@
-#!/bin/bash
-ls - lnA
+total 24
+drwxr-xr-x 2 0 0 167 Mar 10 13:40 .
+drwxr-xr-x 4 0 0  60 Mar 10 05:42 ..
+-rwxr--r-- 1 0 0  16 Mar 10 05:29 0-current_working_directory
+-rwxr--r-- 1 0 0  15 Mar 10 11:11 1-listit
+-rwxr--r-- 1 0 0  17 Mar 10 12:40 2-bring_me_home
+-rwxr--r-- 1 0 0  18 Mar 10 13:01 3-listfiles
+-rwxr--r-- 1 0 0  19 Mar 10 13:31 4-listmorefiles
+-rwxr--r-- 1 0 0   0 Mar 11 05:28 5-listfilesdigitonly
+-rw-r--r-- 1 0 0  75 Mar 10 05:55 README.md
