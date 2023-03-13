@@ -1,5 +1,5 @@
 #!/bin/bash
-'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
+echo "File created: $(ls -b '*\\'"Best School"\'\\*$\?\*\*\*\*\*:')"
 
 
 
